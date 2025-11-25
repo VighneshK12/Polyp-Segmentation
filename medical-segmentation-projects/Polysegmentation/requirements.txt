@@ -1,0 +1,35 @@
+acvl_utils==0.2
+adan_pytorch==0.1.0
+batchgenerators==0.25
+dotmap==1.3.30
+easydict==1.10
+efficientnet_pytorch==0.6.3
+einops==0.3.2
+future==0.18.2
+hiddenlayer==0.2
+joblib==1.3.1
+matplotlib==3.8.4          
+MedPy==0.4.0
+ml_collections==0.1.0
+nibabel==5.1.0             # >=5 supports Py3.10
+numpy==1.23.5              # keep in sync with step 2
+opencv_python==4.9.0.80    # modern wheel for Py3.10
+opencv_python_headless==4.9.0.80
+pandas==2.0.3              # >=1.4 for Py3.10
+Pillow==10.3.0             # deduped, modern
+pretrainedmodels==0.7.4
+PyYAML==6.0.1              # keep only newest
+requests==2.31.0           # correct lowercase name
+scikit_image==0.21.0       # supports Py3.10
+scikit_learn==1.3.0
+scipy==1.11.2              # matches step 2
+seaborn==0.12.2
+setuptools==67.8.0
+SimpleITK==2.2.1           # keep one version
+tabulate==0.8.9
+thop==0.1.1.post2209072238
+tifffile==2024.2.12
+timm==0.9.5
+torchinfo==1.8.0
+torchsummary==1.5.1
+tqdm==4.66.4
