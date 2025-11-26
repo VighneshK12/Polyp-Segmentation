@@ -85,13 +85,6 @@ pip install --upgrade pip
 pip install -r requirements.txt
 
 ```
-(Optional) Install Jupyter:
-
-```bash
-pip install jupyterlab ipykernel
-python -m ipykernel install --user --name polypseg --display-name "polypseg"
-
-```
 ## 4.2) Train PolypPVT (Transformer model)
 
 Assume:
