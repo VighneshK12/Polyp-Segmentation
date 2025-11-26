@@ -393,8 +393,7 @@ env MPLBACKEND=Agg \
 
 
 ## 8) Citation
-If you use this work, please consider citing U-Net v2:
-
+All Credits go to:
 ```bash
 
 @article{peng2023u,
