@@ -113,6 +113,9 @@ python PolypSeg/Train.py \
   --test_path  "/path/to/datasets/TestDataset" \
   --train_save "/path/to/datasets/checkpoints_polyp_pvt"
 
+
+```
+
 You can pipe the logs to a file if you want:
 
 ```bash
@@ -183,7 +186,7 @@ Commands are similar but with Windows-style virtualenv activation and environmen
 
 ## 5.1) Clone and create environment (PowerShell)
 ```bash
-Copy code
+
 git clone https://github.com/VighneshK12/Polyp-Segmentation.git
 cd Polyp-Segmentation
 
@@ -197,11 +200,11 @@ pip install -r requirements.txt
 
 ## 5.2) Train 
 
-
 In PowerShell you can set MPLBACKEND like this:
 
 ```bash
 powershell
+
 $env:MPLBACKEND = "Agg"
 
 python PolypSeg/Train.py `
@@ -217,7 +220,8 @@ python PolypSeg/Train.py `
 ## 5.3) Test PolypPVT
 ```bash
 powershell
-Copy code
+
+
 $env:MPLBACKEND = "Agg"
 
 python PolypSeg/Test.py `
@@ -230,8 +234,9 @@ python PolypSeg/Test.py `
 ## 5.4) Train & Test on BKAI
 
 ```bash
+
 powershell
-Copy code
+
 $env:MPLBACKEND = "Agg"
 
 python Bkai_Training/Bkai_Train.py `
@@ -269,7 +274,6 @@ source /nfs/speed-scratch/$USER/.polypseg-env/bin/activate
 If you are using tcsh/csh (common in ENCS), activation looks like:
 
 csh
-
 
 source /nfs/speed-scratch/$USER/.polypseg-env/bin/activate.csh
 
@@ -390,7 +394,8 @@ env MPLBACKEND=Agg \
 
 ## 8) Citation
 If you use this work, please consider citing U-Net v2:
-bibtex
+
+```bash
 
 @article{peng2023u,
   title   = {U-Net v2: Rethinking the Skip Connections of U-Net for Medical Image Segmentation},
@@ -398,3 +403,6 @@ bibtex
   journal = {arXiv preprint arXiv:2311.17791},
   year    = {2023}
 }
+
+
+```
