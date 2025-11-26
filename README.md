@@ -389,9 +389,6 @@ env MPLBACKEND=Agg \
 
 ```
 
-## 7) Results 
-
-
 ## 8) Citation
 All Credits go to:
 ```bash
