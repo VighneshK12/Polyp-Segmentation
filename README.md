@@ -48,6 +48,8 @@ My Best Model PolypPVT pretrained weights (best_epoch_71.pth) : https://drive.go
 
 BKAI-GH  results: (https://drive.google.com/file/d/1gWqP6gF013l0Fo7Ya-eY7lRN_y6h9XzJ/view?usp=sharing)
 
+Author Dataseets Results (Our runs): https://drive.google.com/file/d/1arPMpPTKcqDxj5w1f6mFXZ1YMGC1tHUN/view?usp=drive_link
+
 A typical layout for BKAI on your machine:
 
 text
