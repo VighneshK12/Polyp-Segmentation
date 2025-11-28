@@ -42,7 +42,7 @@ Author Dataset (Train + Test): https://drive.google.com/file/d/1n6w8VK4wWrwkgRX7
 
 BKAI-IGH NeoPolyp dataset (Train, Val, Test)(images + masks): https://drive.google.com/file/d/1ubfqhMpELNJn2y-SgGAfd4JX93iIkqkP/view?usp=sharing
 
-PolypPVT pretrained weights (PolypPVT.pth) if not already present: https://drive.google.com/file/d/1fDiYRmg3MrzuS2ts57Yuc2Os5Krse1yJ/view?usp=sharing](https://drive.google.com/drive/folders/1xC5Opwu5Afz4xiK5O9v4NnQOZY0A9-2j (Also present in repository)
+PolypPVT pretrained weights (PolypPVT.pth) if not already present: https://drive.google.com/drive/folders/1xC5Opwu5Afz4xiK5O9v4NnQOZY0A9-2j (Also present in repository)
 
 My Best Model PolypPVT pretrained weights (best_epoch_71.pth) : https://drive.google.com/file/d/1fDiYRmg3MrzuS2ts57Yuc2Os5Krse1yJ/view?usp=sharing
 
