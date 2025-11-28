@@ -38,13 +38,15 @@ Raw datasets and large checkpoints are not committed to this repository.
 
 Please download them from Google Drive and place them in your own directories:
 
-BKAI-IGH NeoPolyp dataset (images + masks): [Google Drive link – to be filled]
+Author Dataset (Train + Test): https://drive.google.com/file/d/1n6w8VK4wWrwkgRX7upKFugUp1uzUaZaE/view?usp=sharing
 
-Train/test split folders used in Bkai_Training/: [Google Drive link – to be filled]
+BKAI-IGH NeoPolyp dataset (Train, Val, Test)(images + masks): https://drive.google.com/file/d/1ubfqhMpELNJn2y-SgGAfd4JX93iIkqkP/view?usp=sharing
 
-PolypPVT pretrained weights (PolypPVT.pth) if not already present: [Google Drive link – to be filled]
+PolypPVT pretrained weights (PolypPVT.pth) if not already present: https://drive.google.com/file/d/1fDiYRmg3MrzuS2ts57Yuc2Os5Krse1yJ/view?usp=sharing](https://drive.google.com/drive/folders/1xC5Opwu5Afz4xiK5O9v4NnQOZY0A9-2j (Also present in repository)
 
-Saved result maps / predictions (optional): [Google Drive link – to be filled]
+My Best Model PolypPVT pretrained weights (best_epoch_71.pth) : https://drive.google.com/file/d/1fDiYRmg3MrzuS2ts57Yuc2Os5Krse1yJ/view?usp=sharing
+
+BKAI-GH  results: (https://drive.google.com/file/d/1gWqP6gF013l0Fo7Ya-eY7lRN_y6h9XzJ/view?usp=sharing)
 
 A typical layout for BKAI on your machine:
 
